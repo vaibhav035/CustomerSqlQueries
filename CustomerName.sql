@@ -1,0 +1,2 @@
+Select Name
+From CutomerNameTbl
